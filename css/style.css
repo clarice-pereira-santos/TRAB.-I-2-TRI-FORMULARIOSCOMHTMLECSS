@@ -4,3 +4,7 @@ h3{
 body{
     background-color:darkgray !important;
 }
+
+form{
+    margin: 1rem !important;
+}
